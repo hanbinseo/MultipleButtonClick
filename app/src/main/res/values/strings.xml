@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MultipleButtonClick</string>
     <string name="button_name">Hanbin\'s Button</string>
+    <string name="button_2">2nd button</string>
 </resources>
